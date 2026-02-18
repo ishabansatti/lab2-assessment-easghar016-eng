@@ -9,11 +9,16 @@ int getIntValue() {
 }
 
 float getFloatValue() {
+    float var_float = 10.75;
+    return  var_float;
+    
     // Declare a variable var_float of type float and set its value to 10.75.
     //return var_float;
 }
 
 char getCharValue() {
+    char var_char = A;
+    return var_char;
     // Declare a variable var_char of type character and set its value to A.
     //return var_char;
 }
